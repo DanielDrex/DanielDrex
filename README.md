@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Daniel, I´m from Mexico.
+
+📖 = I´m currently studying systems engineering 💻 
 
 <!--
 **DanielDrex/DanielDrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
