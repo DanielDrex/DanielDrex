@@ -10,13 +10,15 @@
 📖 I like to be in constant learning
 👨‍🎓 I´m currently studying systems engineering 💻
 
-```
- MyProfile ={
- "Name": "Daniel",
- "LastName": "Castrejon",
- "Code": ["Java","Python"],
- "Message": "Thanks for visit my profile"
- }
+```python
+ def HelloWorld():
+    MyProfile ={
+        "Name": "Daniel",
+        "LastName": "Castrejon",
+        "Code": ["Java","Python"],
+        "Message": "Thanks for visit my profile"
+    }
+    return MyProfile
 ```
 
 <!--
