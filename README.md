@@ -7,13 +7,12 @@ ___________________________________________________________________
 📖 I like to be in constant learning 
 👨‍🎓 I´m currently studying systems engineering 💻
 
-<
-    MyProfile ={
+<MyProfile ={
     "Name": "Daniel",
     "LastName": "Castrejon",
     "Code": ["Java","Python"],
     "Message": "Thanks for visit my profile"
-    } 
+    }
 >
 
 <!--
