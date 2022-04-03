@@ -6,9 +6,9 @@
 
 ## About me
 
-👍 My name is Daniel, I´m from Mexico
-📖 I like to be in constant learning
-👨‍🎓 I´m currently studying systems engineering 💻
+- 👍 My name is Daniel, I´m from Mexico
+- 📖 I like to be in constant learning
+- 👨‍🎓 I´m currently studying systems engineering 💻
 
 ```python
  def HelloWorld():
