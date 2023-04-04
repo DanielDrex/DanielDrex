@@ -15,7 +15,7 @@
     MyProfile ={
         "Name": "Daniel",
         "LastName": "Castrejon",
-        "Code": ["Java","Python"],
+        "Code": ["Java","Python,TypeScript"],
         "Message": "Thanks for visit my profile"
     }
     return MyProfile
