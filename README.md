@@ -1,10 +1,10 @@
 ---
 
-# *Daniel Castrejon* 👋
+# *Hi, I´m Daniel* 👋
 
 ---
 
-## About me
+## About me 🤔 
 
 - 👍 My name is Daniel, I´m from Mexico
 - 📖 I like to be in constant learning
@@ -13,9 +13,9 @@
 ```python
  def HelloWorld():
     MyProfile ={
-        "Name": "Daniel",
-        "LastName": "Castrejon",
+        "Pronouns": ["he","him"],
         "Code": ["Java","Python,TypeScript"],
+        "Tools": ["Angular", "Spring", "NetCore", "Docker"],
         "Message": "Thanks for visit my profile"
     }
     return MyProfile
