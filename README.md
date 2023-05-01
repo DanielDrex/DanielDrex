@@ -23,10 +23,10 @@
 
 ## You can find me 🌎:
 
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/](https://www.linkedin.com/in/daniel-castrejon/">
+<a href="https://www.linkedin.com/in/daniel-castrejon/">
   <img align="left" alt="Daniel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AjayKhalsa">
+<a href="https://github.com/DanielDrex/">
   <img align="left" alt="Daniel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/danieel_castrejon/">
